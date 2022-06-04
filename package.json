@@ -1,0 +1,19 @@
+{
+  "name": "yamaha-avr-com",
+  "version": "0.0.1",
+  "description": "Enables Communication between Yamaha AV-Receiver by HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wildotter/yamaha-avr-com.git"
+  },
+  "author": "Wildotter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wildotter/yamaha-avr-com/issues"
+  },
+  "homepage": "https://github.com/Wildotter/yamaha-avr-com#readme"
+}
