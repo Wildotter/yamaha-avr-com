@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/Wildotter/yamaha-avr-com.git"
   },
+  "dependencies": {
+    "@types/es6-shim": "^0.31.42",
+    "axios-observable": "^1.3.0"
+  },
   "author": "Wildotter",
   "license": "ISC",
   "bugs": {
