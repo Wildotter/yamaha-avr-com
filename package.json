@@ -1,6 +1,6 @@
 {
   "name": "yamaha-avr-com",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Enables Communication between Yamaha AV-Receiver by HTTP",
   "main": "index.js",
   "scripts": {
